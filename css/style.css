@@ -20,5 +20,5 @@ body {
 
 /* Write all remaining styles here */
 #copyRights {
-	float: right;
+	text-align: right;
 }
